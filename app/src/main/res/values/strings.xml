@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Test</string>
+    <string name="app_name">Test Partizan</string>
+
+    <string name="drawer_open">Відкрити меню</string>
+    <string name="drawer_close">Закрити меню</string>
+    <string name="exceptions_something_wrong">Oops...something wrong</string>
+    <string name="exceptions_no_internet">No internet connection</string>
+    <string name="exceptions_http">Http Error</string>
+    <string name="exceptions_http_error">Some network problems</string>
+    <string name="exceptions_field_validation">One or more field is invalid</string>
+    <string name="exceptions_client">Ooops, something wrong on client side</string>
+    <string name="exceptions_server">Ooops, something wrong on server side</string>
+    <string name="exceptions_parse_json">Ooops, some data has wrong format</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="registration">Registration</string>
+    <string name="device">Девайс %1$s</string>
+
 </resources>

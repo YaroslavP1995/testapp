@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/loginFragment"
+        android:icon="@drawable/group_1330"
+        android:title="Partizan Cloud" />
+    <item
+        android:id="@+id/deviceFragment"
+        android:icon="@drawable/white_house_logo"
+        android:title=" Мої пристрої" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/settings"
+        android:title="Налаштування" />
+</menu>
